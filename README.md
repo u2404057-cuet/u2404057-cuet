@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Rahimul Hoque 👋
 
-<!--
-**u2404057-cuet/u2404057-cuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at **Chittagong University of Engineering and Technology**, aspiring to become a **full-stack developer**. Currently learning web development and building projects to enhance my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Programming Languages:** C++, C, Python  
+- **Web Development:** HTML, CSS  
+- **Current Focus:** Web Development (Frontend & Backend)
+
+---
+
+## 🌱 Projects
+- **[Personal Portfolio Website](https://github.com/your-username/portfolio)** – Showcasing my skills, projects, and contact information in a clean, professional layout. *(Replace with your GitHub repo link)*
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Rahimul Hoque](https://www.linkedin.com/in/rahimul-hoque-708861280)
+
+---
+
+## 🌟 Currently Learning
+- Exploring new technologies and building more web projects to strengthen my full-stack development skills.
