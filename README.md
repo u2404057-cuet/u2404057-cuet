@@ -12,7 +12,7 @@ I am a student at **Chittagong University of Engineering and Technology**, aspir
 ---
 
 ## 🌱 Projects
-- **[Personal Portfolio Website](https://github.com/your-username/portfolio)** – Showcasing my skills, projects, and contact information in a clean, professional layout. *(Replace with your GitHub repo link)*
+- [**[Personal Portfolio Website](https://u2404057-cuet.github.io/portfolio/)**] – Showcasing my skills, projects, and contact information in a clean, professional layout. *(Replace with your GitHub repo link)*
 
 ---
 
