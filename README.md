@@ -6,7 +6,7 @@ I am a student at **Chittagong University of Engineering and Technology**, aspir
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** C++, C, Python  
-- **Web Development:** HTML, CSS  
+- **Web Development:** HTML, CSS, TailwindCss, React,
 - **Current Focus:** Web Development (Frontend & Backend)
 
 ---
