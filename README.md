@@ -4,7 +4,7 @@
 
 <a href="https://rahim-portfolio-cuet.netlify.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-rahim--portfolio--cuet.netlify.app-2D5D7B?style=for-the-badge&logoColor=white"/></a>
 <a href="mailto:rahimu2000@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-rahimu2000%40gmail.com-C2693F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/u2404057-cuet"><img src="https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Bangladesh-1E1E1E?style=for-the-badge"/></a>
+<a href="https://github.com/u2404057-cuet"><img src="https://img.shields.io/badge/📍%20Location-Chottogram%2C%20Bangladesh-1E1E1E?style=for-the-badge"/></a>
 
 </div>
 
